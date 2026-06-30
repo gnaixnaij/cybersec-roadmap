@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Lint](https://img.shields.io/github/actions/workflow/status/gnaixnaij/cybersec-roadmap/lint.yml?branch=main&label=lint&logo=github)](https://github.com/gnaixnaij/cybersec-roadmap/actions)
+[![Release](https://img.shields.io/github/v/release/gnaixnaij/cybersec-roadmap?logo=github)](https://github.com/gnaixnaij/cybersec-roadmap/releases)
 [![Site](https://img.shields.io/badge/site-gnaixnaij.github.io-58a6ff)](https://gnaixnaij.github.io/cybersec-roadmap/)
 
 Free structured cybersecurity learning path for SOC Analysts, Pentesters, Malware Analysts, and Security Engineers.
